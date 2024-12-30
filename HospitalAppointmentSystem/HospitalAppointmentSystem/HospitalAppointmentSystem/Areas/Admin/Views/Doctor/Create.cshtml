@@ -1,0 +1,37 @@
+﻿@model DoctorViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Doktor Ekle</h2>
+
+<form method="post" asp-controller="Doctor" asp-action="Create" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="FullName" class="form-label">Doctor Ad Soyad:</label>
+        <input type="text" class="form-control" id="FullName" name="FullName" required />
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Doktor Mail Adresi:</label>
+        <input type="text" class="form-control" id="Email" name="Email" required />
+    </div>
+    <div class="mb-3">
+        <label for="Password" class="form-label">Doktor Şifre:</label>
+        <input type="text" class="form-control" id="Password" name="Password" required />
+    </div>
+    <div class="mb-3">
+        <label for="DepartmentId" class="form-label">Departman</label>
+        <select id="DepartmentId" name="DepartmentId" class="form-select" required>
+            <option value="">-- Select Department --</option>
+            @foreach (var department in ViewBag.Departments)
+            {
+                <option value="@department.Id">@department.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="Image" class="form-label">Doktor Resim:</label>
+        <input type="file" class="form-control" id="imageUrl" value="İmageUrl" name="Image" />
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

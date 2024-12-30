@@ -1,0 +1,24 @@
+﻿@model AppointmentViewModel
+@{
+    ViewData["Title"] = "ConfirmCancel";
+    Layout = "~/Views/Shared/_LayoutHospital.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>Randevunuzu İptal Etmek İstediğinize Emin Misiniz?</h2>
+    <div class="card mt-3">
+        <div class="card-body">
+            <h5 class="card-title">Randevu Detayları</h5>
+            <p><strong>Hasta Adı:</strong> @Model.CustomerName</p>
+            <p><strong>Doktor:</strong> @Model.DoctorName</p>
+            <p><strong>Departman:</strong> @Model.DepartmentName</p>
+            <p><strong>Tarih:</strong> @Model.Date.ToString("dd/MM/yyyy HH:mm")</p>
+        </div>
+    </div>
+    <form method="post" asp-action="ConfirmCancel" asp-controller="Appointment">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <button type="submit" class="btn btn-danger mt-3">Evet, İptal Et</button>
+        <a href="@Url.Action("CancelAppointment", "Appointment")" class="btn btn-secondary mt-3">Hayır, Vazgeç</a>
+    </form>
+</div>
+

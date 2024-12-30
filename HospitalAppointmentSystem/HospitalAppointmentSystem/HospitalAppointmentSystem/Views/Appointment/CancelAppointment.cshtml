@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "CancelAppointment";
+    Layout = "~/Views/Shared/_LayoutHospital.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>Randevunuzu İptal Etmek İçin T.C. Kimlik Numaranızı Girin</h2>
+    <form method="post" asp-action="CancelAppointment" asp-controller="Appointment">
+        <div class="form-group">
+            <label for="tcNo">T.C. Kimlik Numarası:</label>
+            <input type="text" id="tcNo" name="tcNo" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-danger mt-3">Randevuyu Getir</button>
+    </form>
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger mt-3">@TempData["ErrorMessage"]</div>
+    }
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+

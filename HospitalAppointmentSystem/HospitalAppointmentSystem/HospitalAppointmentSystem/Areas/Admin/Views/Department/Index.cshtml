@@ -1,0 +1,38 @@
+﻿@model List<DepartmentViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Departman Listesi</h1>
+<a asp-action="Create" asp-controller="Department" asp-area="admin">Departman ekle</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Adı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.Id</td>
+                <td>
+                    <img src="@department.ImageUrl" alt="Departman Image" class="img-thumbnail" style="width: 200px; height: 150px;" />
+                </td>
+                <td>@department.Name</td>
+                <td>
+                    <form asp-controller="Department" asp-action="Delete" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@department.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Bu departmanı silmek istediğinize emin misiniz?')">
+                            Sil
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,471 @@
+﻿@model List<DoctorViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutHospital.cshtml";
+}
+
+<div class="slider_area">
+    <div class="slider_active owl-carousel">
+        <div class="single_slider  d-flex align-items-center slider_bg_2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="slider_text ">
+                            <h3>
+                                <span>Sağlık hizmeti</span> <br>
+                                Tüm Aile İçin
+                            </h3>
+                            <p>
+                                Sağlık sektöründe hizmet mükemmeliyeti, <br> hastanenin sağlık hizmeti sağlayıcısı olarak sürekli
+                                sağladığı bir hizmettir.
+                            </p>
+                            <a asp-action="Departments" asp-controller="Home" class="boxed-btn3">Hizmetlerimizi İnceleyin</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single_slider  d-flex align-items-center slider_bg_1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="slider_text ">
+                            <h3>
+                                <span>Sağlık hizmeti</span> <br>
+                                Tüm Aile İçin
+                            </h3>
+                            <p>
+                                Sağlık sektöründe hizmet mükemmeliyeti, <br> hastanenin sağlık hizmeti sağlayıcısı olarak sürekli
+                                sağladığı bir hizmettir.
+                            </p>
+                            <a asp-action="Departments" asp-controller="Home" class="boxed-btn3">Hizmetlerimizi İnceleyin</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single_slider  d-flex align-items-center slider_bg_2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="slider_text ">
+                            <h3>
+                                <span>Sağlık hizmeti</span> <br>
+                                Tüm Aile İçin
+                            </h3>
+                            <p>
+                                Sağlık sektöründe hizmet mükemmeliyeti, <br> hastanenin sağlık hizmeti sağlayıcısı olarak sürekli
+                                sağladığı bir hizmettir.
+                            </p>
+                            <a asp-action="Departments" asp-controller="Home" class="boxed-btn3">Hizmetlerimizi İnceleyin</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- slider_area_end -->
+<!-- service_area_start -->
+<div class="service_area">
+    <div class="container p-0">
+        <div class="row no-gutters">
+            <div class="col-xl-4 col-md-4">
+                <div class="single_service">
+                    <div class="icon">
+                        <i class="flaticon-electrocardiogram"></i>
+                    </div>
+                    <h3>Misafirperverlik</h3>
+                    <p> Klinik mükemmeliyet, herhangi bir sağlık hizmeti sağlayıcısının önceliği olmalıdır.</p>
+                    <a asp-controller="Appointment" asp-action="Create" class="boxed-btn3-white">Bir Yatak İçin Başvur</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4">
+                <div class="single_service">
+                    <div class="icon">
+                        <i class="flaticon-emergency-call"></i>
+                    </div>
+                    <h3>Acil Bakım</h3>
+                    <p> Klinik mükemmeliyet, herhangi bir sağlık hizmeti sağlayıcısının önceliği olmalıdır.</p>
+                    <a href="#" class="boxed-btn3-white">+10 672 356 3567</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4">
+                <div class="single_service">
+                    <div class="icon">
+                        <i class="flaticon-first-aid-kit"></i>
+                    </div>
+                    <h3>Oda Hizmeti</h3>
+                    <p> Klinik mükemmeliyet, herhangi bir sağlık hizmeti sağlayıcısının önceliği olmalıdır.</p>
+                    <a asp-controller="Appointment" asp-action="Create" class="boxed-btn3-white">Randevu Al</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- service_area_end -->
+<!-- welcome_docmed_area_start -->
+<div class="welcome_docmed_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6">
+                <div class="welcome_thumb">
+                    <div class="thumb_1">
+                        <img src="themes/img/about/1.png" alt="">
+                    </div>
+                    <div class="thumb_2">
+                        <img src="themes/img/about/2.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6">
+                <div class="welcome_docmed_info">
+                    <h2>Docmed'e Hoş Geldiniz</h2>
+                    <h3>
+                        Sağlığınız İçin En İyi Bakım
+                    </h3>
+                    <p>
+                        Sağlık, yaşamın en değerli varlığıdır ve biz, bu değerli kaynağınızı korumak için burada bulunuyoruz. Alanında uzman kadromuz,
+                        en yüksek standartlarda sağlık hizmeti sunmak için sürekli olarak gelişen teknoloji ve yöntemlerle çalışmaktadır. 
+                        Amacımız, her bir hastamıza kişisel, güvenli ve etkili bir bakım sunarak sağlığını en iyi şekilde iyileştirmektir.
+                    </p>
+                    <ul>
+                        <li> <i class="flaticon-right"></i> Güvenli ve konforlu bir ortam sunuyoruz, böylece sağlık yolculuğunuzda huzur içinde olabilirsiniz. </li>
+                        <li> <i class="flaticon-right"></i> Sağlık hizmetlerimizde sadece fiziksel değil, ruhsal ve duygusal sağlığınıza da önem veriyoruz.</li>
+                        <li> <i class="flaticon-right"></i> Bizimle geçirdiğiniz her an, sadece bir tedavi değil, aynı zamanda bir bakım deneyimidir. </li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- welcome_docmed_area_end -->
+<!-- offers_area_start -->
+@* <div class="our_department_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="section_title text-center mb-55">
+                    <h3>Bölümlerimiz</h3>
+                    <p>
+                        Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır. <br>
+                        Şanslı bir şekilde değer verilen veya resimle yapılan çizimler.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                <div class="single_department">
+                    <div class="department_thumb">
+                        <img src="themes/img/department/1.png" alt="">
+                    </div>
+                    <div class="department_content">
+                        <h3><a href="#">Göz Bakımı</a></h3>
+                        <p>Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.</p>
+                        <a href="#" class="learn_more">Daha Fazla Öğren</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                <div class="single_department">
+                    <div class="department_thumb">
+                        <img src="themes/img/department/2.png" alt="">
+                    </div>
+                    <div class="department_content">
+                        <h3><a href="#">Fiziksel Terapi</a></h3>
+                        <p>Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.</p>
+                        <a href="#" class="learn_more">Daha Fazla Öğren</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                <div class="single_department">
+                    <div class="department_thumb">
+                        <img src="themes/img/department/3.png" alt="">
+                    </div>
+                    <div class="department_content">
+                        <h3><a href="#">Diş Bakımı</a></h3>
+                        <p>Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.</p>
+                        <a href="#" class="learn_more">Daha Fazla Öğren</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                <div class="single_department">
+                    <div class="department_thumb">
+                        <img src="themes/img/department/4.png" alt="">
+                    </div>
+                    <div class="department_content">
+                        <h3><a href="#">Tanı Testi</a></h3>
+                        <p>Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.</p>
+                        <a href="#" class="learn_more">Daha Fazla Öğren</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                <div class="single_department">
+                    <div class="department_thumb">
+                        <img src="themes/img/department/5.png" alt="">
+                    </div>
+                    <div class="department_content">
+                        <h3><a href="#">Cilt Ameliyatı</a></h3>
+                        <p>Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.</p>
+                        <a href="#" class="learn_more">Daha Fazla Öğren</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 col-lg-4">
+                <div class="single_department">
+                    <div class="department_thumb">
+                        <img src="themes/img/department/6.png" alt="">
+                    </div>
+                    <div class="department_content">
+                        <h3><a href="#">Ameliyat Hizmeti</a></h3>
+                        <p>Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.</p>
+                        <a href="#" class="learn_more">Daha Fazla Öğren</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> *@
+<!-- offers_area_end -->
+<!-- testmonial_area_start -->
+<div class="testmonial_area">
+    <div class="testmonial_active owl-carousel">
+        <div class="single-testmonial testmonial_bg_1 overlay2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-10 offset-xl-1">
+                        <div class="testmonial_info text-center">
+                            <div class="quote">
+                                <i class="flaticon-straight-quotes"></i>
+                            </div>
+                            <p>
+                                Orta düzeydeki disiplin, sağlık hizmetlerinde çok önemlidir. Doğru yaklaşımı benimseyen herkes, hastalarının sağlığını en iyi şekilde iyileştirmeyi hedefler. 
+                                Saygı ve özen, sağlık çalışanlarının her adımda hastalarına en iyi bakımı sunmasını sağlayan temel unsurlardır.
+                                Sağlık, sadece fiziksel değil, aynı zamanda duygusal ve zihinsel bir iyileşme sürecidir.
+                            </p>
+                            <div class="testmonial_author">
+                                <h4>Dr. Ahmet Yıldırım</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single-testmonial testmonial_bg_2 overlay2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-10 offset-xl-1">
+                        <div class="testmonial_info text-center">
+                            <div class="quote">
+                                <i class="flaticon-straight-quotes"></i>
+                            </div>
+                            <p>
+                                Sağlık hizmetlerinde disiplinli ve doğru bir yaklaşım, her zaman takdir edilmelidir.
+                                İyi bir doktor, yalnızca tedavi değil, aynı zamanda hastalarının moralini yüksek tutarak da iyileşmelerine yardımcı olur.
+                                Saygı, profesyonellik ve dikkat, her sağlık çalışanının benimsemesi gereken değerlerdir.
+                                Tıpkı bir dairenin düzgün ve dengeli bir şekilde dönmesi gibi, doğru tedavi yöntemleri de hastaların iyileşme sürecinde önemli bir rol oynar..
+                            </p>
+                            <div class="testmonial_author">
+                                <h4>Dr. Ezgi Erden</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single-testmonial testmonial_bg_1 overlay2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-10 offset-xl-1">
+                        <div class="testmonial_info text-center">
+                            <div class="quote">
+                                <i class="flaticon-straight-quotes"></i>
+                            </div>
+                            <p>
+                                Sağlıkta en önemli faktörlerden biri de güven duygusudur. Hastalar, yalnızca tedavi görmekle kalmaz, aynı zamanda sağlık profesyonellerinin ilgisi ve desteğiyle kendilerini güvende hissetmelidir. 
+                                Saygı, bir sağlık hizmetinin temel taşıdır ve her hasta için en uygun tedavi yöntemini belirlemek, doğru yaklaşımın bir göstergesidir. 
+                                Bütünsel bir tedavi süreci, hastaların hem fiziksel hem de ruhsal iyileşmesine katkı sağlar.
+                            </p>
+                            <div class="testmonial_author">
+                                <h4>Dr.Ali Yavuz</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- testmonial_area_end -->
+<!-- business_expert_area_start -->
+<div class="business_expert_area">
+    <div class="business_tabs_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <ul class="nav" id="myTab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
+                               aria-selected="true">Mükemmel Hizmetler</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
+                               aria-selected="false">Nitelikli Doktorlar</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact"
+                               aria-selected="false">Acil Servisler</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="container">
+        <div class="border_bottom">
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+
+                    <div class="row align-items-center">
+                        <div class="col-xl-6 col-md-6">
+                            <div class="business_info">
+                                <div class="icon">
+                                    <i class="flaticon-first-aid-kit"></i>
+                                </div>
+                                <h3>Aileniz İçin Önde Gelen Bakım</h3>
+                                <p>
+                                    Saygı ruhu, saygı gösterenlere veda etmek için fazla ılımlıdır.
+                                    Şanslı bir şekilde değer verilen veya resimle yapılan çizimler.
+                                    Daireler sık sık veya hareketsiz olarak makul projeksiyon ifadelerinde yer alır.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6">
+                            <div class="business_thumb">
+                                <img src="themes/img/about/business.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="row align-items-center">
+                        <div class="col-xl-6 col-md-6">
+                            <div class="business_info">
+                                <div class="icon">
+                                    <i class="flaticon-first-aid-kit"></i>
+                                </div>
+                                <h3>Uzman Doktorlarımız</h3>
+                                <p>
+                                    Sağlığınız, bizim için her şeyden önce gelir. Bu yüzden alanında uzman, deneyimli ve 
+                                    hasta odaklı yaklaşımı benimseyen doktorlarımızla hizmetinizdeyiz. Her biri kendi branşında uzun
+                                    yıllara dayanan eğitim ve tecrübeye sahip olan doktorlarımız, sizi en iyi şekilde tedavi edebilmek
+                                    için sürekli olarak güncel tıbbi gelişmeleri takip etmektedir.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6">
+                            <div class="business_thumb">
+                                <img src="themes/img/about/1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                    <div class="row align-items-center">
+                        <div class="col-xl-6 col-md-6">
+                            <div class="business_info">
+                                <div class="icon">
+                                    <i class="flaticon-first-aid-kit"></i>
+                                </div>
+                                <h3>Acil Servislerimiz</h3>
+                                <p>
+                                    Sağlık sorunları bazen beklenmedik bir şekilde, acil durumlar yaratabilir. Bizim için her an, her durum önemlidir.
+                                    Bu yüzden Acil Servis ekibimiz, günün her saati, haftanın yedi günü, size en hızlı ve etkili sağlık hizmetini sunmak için hazırdır.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-md-6">
+                            <div class="business_thumb">
+                                <img src="themes/img/about/2.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- business_expert_area_end  -->
+<!-- expert_doctors_area_start -->
+<div class="expert_doctors_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="doctors_title mb-55">
+                    <h3>Uzman Doktorlar</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="expert_active owl-carousel">
+                    @foreach (var item in Model)
+                    {
+                        
+                            <div class="single_expert mb-40">
+                                <div class="expert_thumb">
+                                    <img src="@item.ImageUrl" alt="">
+                                </div>
+                                <div class="experts_name text-center">
+                                    <h3>@item.FullName</h3>
+                                    <span>@item.DepartmentName</span>
+                                </div>
+                            </div>
+                        
+                    }
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- expert_doctors_area_end -->
+<!-- Emergency_contact start -->
+<div class="Emergency_contact">
+    <div class="conatiner-fluid p-0">
+        <div class="row no-gutters">
+            <div class="col-xl-6">
+                <div class="single_emergency d-flex align-items-center justify-content-center emergency_bg_1 overlay_skyblue">
+                    <div class="info">
+                        <h3>Acil Durum İçin İletişim</h3>
+                        <p>Saygılı ruh, veda etmek için çok fazla ılımlıdır.</p>
+                    </div>
+                    <div class="info_button">
+                        <a href="#" class="boxed-btn3-white">+10 378 4673 467</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6">
+                <div class="single_emergency d-flex align-items-center justify-content-center emergency_bg_2 overlay_skyblue">
+                    <div class="info">
+                        <h3>Çevrimiçi Randevu Alın</h3>
+                        <p>Saygılı ruh, veda etmek için çok fazla ılımlıdır.</p>
+                    </div>
+                    <div class="info_button">
+                        <a href="#" class="boxed-btn3-white">Randevu Al</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

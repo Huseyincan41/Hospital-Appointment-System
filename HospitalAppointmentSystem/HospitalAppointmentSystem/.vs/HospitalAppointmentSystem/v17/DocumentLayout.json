@@ -1,0 +1,1607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\shared\\_layouthospital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\shared\\_layouthospital.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\appointment\\cancelappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\appointment\\cancelappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\doctorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\doctoravailabilityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\doctoravailabilityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\home\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\home\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\home\\departments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\sneat\\html\\auth-login-basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\sneat\\html\\auth-login-basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\doctor\\doctorlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\doctor\\doctorlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\doctor\\doctordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\doctor\\doctordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\css\\flaticon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\css\\flaticon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\appointment\\confirmcancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\appointment\\confirmcancel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\doctorloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\doctorloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\department.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\department.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\doctors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\doctors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\appointment\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\appointment\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\context\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\context\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226121045_klaa\u0131\u0131uag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241226121045_klaa\u0131\u0131uag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226115641_klaa\u0131\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241226115641_klaa\u0131\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226114439_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241226114439_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F4E2B0-1842-4342-B1D4-FD5B0955FF1B}|Service\\Service.csproj|solutionrelative:service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241222222840_tcc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241222222840_tcc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205220550_aaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241205220550_aaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205220247_aaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241205220247_aaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205215807_aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241205215807_aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205215527_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241205215527_aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\entity\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4910FF2C-BFF1-41BF-B79B-1D81CB18B957}|Entity\\Entity.csproj|solutionrelative:entity\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\hospitalappointmentsystem\\wwwroot\\themes\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5EA7F47-3233-4708-9EA7-57E7CBBBD4DF}|HospitalAppointmentSystem\\HospitalAppointmentSystem.csproj|solutionrelative:hospitalappointmentsystem\\wwwroot\\themes\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\migrations\\20241226122038_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241226122038_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\migrations\\20241226213137_departmant-image-descriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241226213137_departmant-image-descriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\migrations\\20241227144928_doctoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241227144928_doctoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\projeler\\.net projeler\\hospitalappointmentsystem\\hospitalappointmentsystem\\data\\migrations\\20241229141539_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C4E7DD-F36A-4905-ABCB-65CA33769C4F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241229141539_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:24:03.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:00:17.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:58:40.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T18:48:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAwKIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:57:16.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutHospital.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Shared\\_LayoutHospital.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Shared\\_LayoutHospital.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Shared\\_LayoutHospital.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Shared\\_LayoutHospital.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:29:05.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Edit.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:13:55.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:26:32.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T17:07:38.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CancelAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\CancelAppointment.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Appointment\\CancelAppointment.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\CancelAppointment.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Appointment\\CancelAppointment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:54:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T14:56:37.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:23:02.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:48:38.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:05:40.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Service\\Services\\DoctorService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwDoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:46:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DoctorViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\DoctorViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DoctorViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\DoctorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:29.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorAvailabilityViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DoctorAvailabilityViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\DoctorAvailabilityViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DoctorAvailabilityViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\DoctorAvailabilityViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:27:39.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Doctors.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Home\\Doctors.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Doctors.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Home\\Doctors.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:21:27.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Departments.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Departments.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Home\\Departments.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Departments.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Home\\Departments.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAI4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T21:44:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "auth-login-basic.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-login-basic.html",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-login-basic.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-login-basic.html",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-login-basic.html",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-23T13:58:53.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:54:13.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DoctorLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Doctor\\DoctorLogin.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Doctor\\DoctorLogin.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Doctor\\DoctorLogin.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Doctor\\DoctorLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:12:34.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Doctor\\DoctorDashboard.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Doctor\\DoctorDashboard.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Doctor\\DoctorDashboard.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Doctor\\DoctorDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:13:43.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAhwIYAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:40:59.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IDoctorService.cs",
+              "RelativeToolTip": "Entity\\Services\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:46:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "Entity\\Services\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:44:56.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Service\\Services\\AppointmentService.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAuwKEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:45:36.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\animate.css",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\animate.css",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\animate.css",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\animate.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T21:27:40.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\font-awesome.min.css",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\font-awesome.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T21:28:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "flaticon.css",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\flaticon.css",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\flaticon.css",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\flaticon.css",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\flaticon.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T21:28:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\bootstrap.min.css",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T21:28:40.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:34:18.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Service\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:46:15.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:47:13.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:16:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T18:48:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:16:57.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:15:39.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:55:14.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConfirmCancel.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\ConfirmCancel.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Appointment\\ConfirmCancel.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\ConfirmCancel.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Appointment\\ConfirmCancel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T21:55:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:47:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20241229141539_status.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241229141539_status.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241229141539_status.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241229141539_status.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241229141539_status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:15:39.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Entity\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:53:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\AppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\AppointmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:48:45.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Service\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwD0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:41:55.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Entity\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Entity\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:54:38.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:55:25.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Program.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:06:40.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Entity\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:05:08.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DoctorLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DoctorLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\DoctorLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\DoctorLoginViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\DoctorLoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:54:34.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:04:34.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:35:11.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20241227144928_doctoremail.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241227144928_doctoremail.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241227144928_doctoremail.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241227144928_doctoremail.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241227144928_doctoremail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:49:28.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Department.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\Department.html",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\Department.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\Department.html",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\Department.html",
+              "ViewState": "AQIAAKAAAAAAAAAAAABRwMIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-26T21:45:00.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Department.cs",
+              "RelativeToolTip": "Entity\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:57:23.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20241226213137_departmant-image-descriptions.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226213137_departmant-image-descriptions.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241226213137_departmant-image-descriptions.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226213137_departmant-image-descriptions.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241226213137_departmant-image-descriptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:31:37.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\Add.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Appointment\\Add.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Appointment\\Add.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Appointment\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T23:00:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Doctors.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\Doctors.html",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\Doctors.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\Doctors.html",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\Doctors.html",
+              "ViewState": "AQIAACAAAAAAAAAAAABRwJAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-26T21:21:40.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20241226122038_time.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226122038_time.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241226122038_time.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226122038_time.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241226122038_time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:20:38.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20241226121045_klaa\u0131\u0131uag.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226121045_klaa\u0131\u0131uag.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241226121045_klaa\u0131\u0131uag.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226121045_klaa\u0131\u0131uag.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241226121045_klaa\u0131\u0131uag.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:10:45.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241226121202_klaa\u0131\u0131uag\u0131\u0131.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:12:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\appsettings.json",
+              "RelativeToolTip": "HospitalAppointmentSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T13:52:10.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Context\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Context\\HospitalDbContext.cs",
+              "RelativeToolTip": "Data\\Context\\HospitalDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:49:00.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241226115641_klaa\u0131\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226115641_klaa\u0131\u0131.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241226115641_klaa\u0131\u0131.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226115641_klaa\u0131\u0131.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241226115641_klaa\u0131\u0131.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:56:41.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:55:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Entities\\Customer.cs",
+              "RelativeToolTip": "Entity\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:53:43.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241226114439_ff.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226114439_ff.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241226114439_ff.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241226114439_ff.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241226114439_ff.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:44:39.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IDepartmentService.cs",
+              "RelativeToolTip": "Entity\\Services\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:41:31.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DependencyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions\\DependencyExtensions.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeToolTip": "Service\\Extensions\\DependencyExtensions.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:49:06.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:54:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Entity\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:45:53.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwC4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:52:43.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAIBJwD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T18:31:29.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T18:29:40.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:26:30.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:20.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Delete.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Appointment\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwC4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:34:08.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Entity\\Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:29:55.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:27:05.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T18:30:42.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Service\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:31:59.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:11:41.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:25:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:25:03.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HospitalAppointmentSystem\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-23T13:52:00.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:33:22.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:33:24.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20241222222840_tcc.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241222222840_tcc.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241222222840_tcc.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241222222840_tcc.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241222222840_tcc.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:28:41.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T23:09:56.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HospitalAppointmentSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T22:19:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20241205215527_aa.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205215527_aa.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241205215527_aa.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205215527_aa.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241205215527_aa.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:55:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20241205215807_aaa.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205215807_aaa.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241205215807_aaa.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205215807_aaa.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241205215807_aaa.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:58:07.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20241205220247_aaaa.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205220247_aaaa.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241205220247_aaaa.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205220247_aaaa.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241205220247_aaaa.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:02:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20241205220550_aaaaa.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205220550_aaaaa.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241205220550_aaaaa.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Data\\Migrations\\20241205220550_aaaaa.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241205220550_aaaaa.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:05:50.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:55:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\index.html",
+              "RelativeDocumentMoniker": "HospitalAppointmentSystem\\wwwroot\\themes\\index.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\index.html",
+              "RelativeToolTip": "HospitalAppointmentSystem\\wwwroot\\themes\\index.html",
+              "ViewState": "AQIAABoAAAAAAAAAAABRwHQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-05T13:34:48.35Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

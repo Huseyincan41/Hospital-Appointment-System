@@ -1,0 +1,2393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HospitalAppointmentSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HospitalAppointmentSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\departments\\0069aa6c-d6bc-49eb-b283-d6c4fb204063_kalp.jpg",
+      "PackagePath": "staticwebassets\\images\\departments\\0069aa6c-d6bc-49eb-b283-d6c4fb204063_kalp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\departments\\080b43be-8849-428e-b4c2-f8453d1b9aa8_2.png",
+      "PackagePath": "staticwebassets\\images\\departments\\080b43be-8849-428e-b4c2-f8453d1b9aa8_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\departments\\320a0e10-987b-47b6-b891-d1f9ee8472fd_5.png",
+      "PackagePath": "staticwebassets\\images\\departments\\320a0e10-987b-47b6-b891-d1f9ee8472fd_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\departments\\3fef7a8a-a3ee-421b-acdc-c27cc738c619_4.png",
+      "PackagePath": "staticwebassets\\images\\departments\\3fef7a8a-a3ee-421b-acdc-c27cc738c619_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\departments\\d1bc45ee-4293-4d67-8edd-4e16c477ce14_6.png",
+      "PackagePath": "staticwebassets\\images\\departments\\d1bc45ee-4293-4d67-8edd-4e16c477ce14_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\departments\\f5b3e6e9-c237-42f3-a49c-5d745abc7e3e_1.png",
+      "PackagePath": "staticwebassets\\images\\departments\\f5b3e6e9-c237-42f3-a49c-5d745abc7e3e_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\0458cc5a-6aab-4ee8-ba79-65d1d313755d_4.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\0458cc5a-6aab-4ee8-ba79-65d1d313755d_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\1.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\1089b6df-0aae-4d3d-8b50-addfb837e179_1.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\1089b6df-0aae-4d3d-8b50-addfb837e179_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\214d99be-2955-44f8-a1a9-957ed57c9830_2.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\214d99be-2955-44f8-a1a9-957ed57c9830_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\220a50f1-84fb-40d1-8552-463a530033df_2.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\220a50f1-84fb-40d1-8552-463a530033df_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\2ae6a087-72c4-4888-9c03-f5be81fed265_1.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\2ae6a087-72c4-4888-9c03-f5be81fed265_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\4edcc02c-4d61-4c38-a319-41aac2b965fd_User-Profile-PNG-Image.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\4edcc02c-4d61-4c38-a319-41aac2b965fd_User-Profile-PNG-Image.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\5a8460ab-ea49-46f5-bf46-8f2d1408dc99_6.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\5a8460ab-ea49-46f5-bf46-8f2d1408dc99_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\6c9aa62d-5ea8-42a2-a637-25e0d9de5b0b_7.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\6c9aa62d-5ea8-42a2-a637-25e0d9de5b0b_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\70497d91-0c2f-4c66-94e1-f52b58f1de3e_3.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\70497d91-0c2f-4c66-94e1-f52b58f1de3e_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\72c6f483-06c5-4bb9-8bca-22cd4667b890_2.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\72c6f483-06c5-4bb9-8bca-22cd4667b890_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\998b08e1-c285-41ac-a711-5277132b1cd1_1706544145518.jpg",
+      "PackagePath": "staticwebassets\\images\\doctors\\998b08e1-c285-41ac-a711-5277132b1cd1_1706544145518.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\99e2e79b-6f30-4900-9569-6101f8f910db_2.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\99e2e79b-6f30-4900-9569-6101f8f910db_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\b47817db-1920-40b1-9084-03d478070e94_8.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\b47817db-1920-40b1-9084-03d478070e94_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\bf46c35b-8552-4023-87a7-f6e01630df3c_2.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\bf46c35b-8552-4023-87a7-f6e01630df3c_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\c47d7b59-fca8-44df-8875-7d9848940d7b_2.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\c47d7b59-fca8-44df-8875-7d9848940d7b_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\e5edfaef-feda-4276-bf5a-6e42f0c76c20_7.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\e5edfaef-feda-4276-bf5a-6e42f0c76c20_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\ee9a724f-b7b5-4155-8b31-2c3b7b0aa472_6.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\ee9a724f-b7b5-4155-8b31-2c3b7b0aa472_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\f76ff719-7009-4394-8d1a-5dddad72851d_3.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\f76ff719-7009-4394-8d1a-5dddad72851d_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\fc1a9a76-0c7e-46d4-a2ab-b4a186f8323f_8.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\fc1a9a76-0c7e-46d4-a2ab-b4a186f8323f_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\images\\doctors\\ffc6aa41-c66b-4b78-80d7-6af975bee72a_2.webp",
+      "PackagePath": "staticwebassets\\images\\doctors\\ffc6aa41-c66b-4b78-80d7-6af975bee72a_2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\.browserslistrc",
+      "PackagePath": "staticwebassets\\sneat\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\.eslintignore",
+      "PackagePath": "staticwebassets\\sneat\\.eslintignore"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\sneat\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\.gitignore",
+      "PackagePath": "staticwebassets\\sneat\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\.prettierignore",
+      "PackagePath": "staticwebassets\\sneat\\.prettierignore"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\.prettierrc.json",
+      "PackagePath": "staticwebassets\\sneat\\.prettierrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\sneat\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\LICENSE.md",
+      "PackagePath": "staticwebassets\\sneat\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\README.md",
+      "PackagePath": "staticwebassets\\sneat\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\build-config.js",
+      "PackagePath": "staticwebassets\\sneat\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\documentation.html",
+      "PackagePath": "staticwebassets\\sneat\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\sneat\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\gulpfile.js",
+      "PackagePath": "staticwebassets\\sneat\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\cards-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\index.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-container.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\index.html",
+      "PackagePath": "staticwebassets\\sneat\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\package-lock.json",
+      "PackagePath": "staticwebassets\\sneat\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\package.json",
+      "PackagePath": "staticwebassets\\sneat\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\sneat\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\sneat\\tasks\\prod.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\webpack.config.js",
+      "PackagePath": "staticwebassets\\sneat\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\sneat\\yarn.lock",
+      "PackagePath": "staticwebassets\\sneat\\yarn.lock"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\.vscode\\settings.json",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\.vscode\\settings.json"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\css\\main.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\img\\logo.png",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\index.html",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\js\\custom.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\themes\\210 Medical DOC\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\Department.html",
+      "PackagePath": "staticwebassets\\themes\\Department.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\Doctors.html",
+      "PackagePath": "staticwebassets\\themes\\Doctors.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\about.html",
+      "PackagePath": "staticwebassets\\themes\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\blog.html",
+      "PackagePath": "staticwebassets\\themes\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\contact.html",
+      "PackagePath": "staticwebassets\\themes\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\contact_process.php",
+      "PackagePath": "staticwebassets\\themes\\contact_process.php"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\animate.css",
+      "PackagePath": "staticwebassets\\themes\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\themes\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\themes\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\themes\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\themes\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\themes\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\themes\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\themes\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\themes\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\style.map",
+      "PackagePath": "staticwebassets\\themes\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\themes\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\themes\\css\\theme-default.map"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\themes\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\elements.html",
+      "PackagePath": "staticwebassets\\themes\\elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\themes\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\themes\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\themes\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\themes\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\themes\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\themes\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\about\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\about\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\about\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\about\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\about\\business.png",
+      "PackagePath": "staticwebassets\\themes\\img\\about\\business.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\about_banner.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\about_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\banner2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\bradcam2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\bradcam2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\bradcam3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\bradcam3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\emergency-1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\emergency-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\banner\\emergency-2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\banner\\emergency-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\department\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\department\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\department\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\department\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\department\\3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\department\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\department\\4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\department\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\department\\5.png",
+      "PackagePath": "staticwebassets\\themes\\img\\department\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\department\\6.png",
+      "PackagePath": "staticwebassets\\themes\\img\\department\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\themes\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\5.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\6.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\7.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\8.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\experts\\9.png",
+      "PackagePath": "staticwebassets\\themes\\img\\experts\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\themes\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\themes\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\footer_logo.png",
+      "PackagePath": "staticwebassets\\themes\\img\\footer_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\instragram\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\instragram\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\instragram\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\instragram\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\instragram\\3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\instragram\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\instragram\\4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\instragram\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\instragram\\5.png",
+      "PackagePath": "staticwebassets\\themes\\img\\instragram\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\logo.png",
+      "PackagePath": "staticwebassets\\themes\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\themes\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\rooms\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\rooms\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\rooms\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\rooms\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\rooms\\3.png",
+      "PackagePath": "staticwebassets\\themes\\img\\rooms\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\rooms\\4.png",
+      "PackagePath": "staticwebassets\\themes\\img\\rooms\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\themes\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\testmonial\\2.png",
+      "PackagePath": "staticwebassets\\themes\\img\\testmonial\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\img\\video\\video.png",
+      "PackagePath": "staticwebassets\\themes\\img\\video\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\index.html",
+      "PackagePath": "staticwebassets\\themes\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\themes\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\contact.js",
+      "PackagePath": "staticwebassets\\themes\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\themes\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\main.js",
+      "PackagePath": "staticwebassets\\themes\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\themes\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\themes\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\main.html",
+      "PackagePath": "staticwebassets\\themes\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\readme.txt",
+      "PackagePath": "staticwebassets\\themes\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_department.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_department.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_emergency_contact.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_emergency_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_experts.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_offers.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_offers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_service.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_tesmonial.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_tesmonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\themes\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hüseyin Can\\Desktop\\projeler\\.net projeler\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\HospitalAppointmentSystem\\wwwroot\\themes\\single-blog.html",
+      "PackagePath": "staticwebassets\\themes\\single-blog.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HospitalAppointmentSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HospitalAppointmentSystem.props",
+      "PackagePath": "build\\HospitalAppointmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HospitalAppointmentSystem.props",
+      "PackagePath": "buildMultiTargeting\\HospitalAppointmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HospitalAppointmentSystem.props",
+      "PackagePath": "buildTransitive\\HospitalAppointmentSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

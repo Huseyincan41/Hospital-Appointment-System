@@ -1,0 +1,34 @@
+﻿@model Entity.ViewModels.DepartmentViewModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" asp-controller="Department" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="Name">Departman Adı</label>
+                <input type="text" asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="Description" class="form-label">Department description</label>
+                <input type="text" class="form-control" id="Description" name="Description" required />
+            </div>
+            <div class="mb-3">
+                <label for="Image" class="form-label">Doctor Image</label>
+                <input type="file" class="form-control" id="imageUrl" value="İmageUrl" name="Image" />
+            </div>
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

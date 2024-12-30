@@ -1,0 +1,17 @@
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Service.dll
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Data.dll
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Entity.dll
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Data.pdb
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\bin\Debug\net7.0\Entity.pdb
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.csproj.Up2Date
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.dll
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\Hüseyin Can\Desktop\projeler\.net projeler\HospitalAppointmentSystem\HospitalAppointmentSystem\Service\obj\Debug\net7.0\ref\Service.dll

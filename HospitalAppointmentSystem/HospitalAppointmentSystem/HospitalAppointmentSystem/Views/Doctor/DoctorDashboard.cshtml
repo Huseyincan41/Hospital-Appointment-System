@@ -1,0 +1,53 @@
+﻿@model List<AppointmentViewModel>
+@{
+    ViewData["Title"] = "DoctorDashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body style="background-color:aliceblue">
+    <form asp-action="DoctorDashboard" method="get" class="mb-4">
+        <div class="form-group">
+           @*  <label for="searchTc">TC No ile Arama:</label> *@
+            <input type="text" class="form-control" id="searchTc" name="searchTc" placeholder="TC No giriniz..." />
+        </div>
+        <button type="submit" class="btn btn-primary">Ara</button>
+    </form>
+<table class="table">
+        
+    <thead>
+        <tr>
+            <th> Randevu Tarih</th>
+            <th>Randevu Saati</th>
+            <th>Hasta Adı</th>
+            <th>Hasta Tc No</th>
+            <th>Randevu Durumu</th>
+            <th>Randevuyu Onayla/İptal Et</th>
+        </tr>
+    </thead>
+    <tbody >
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.Date.ToString("dd/MM/yyyy")</td>
+                <td>@appointment.Time.ToString(@"hh\:mm")</td>
+                <td>@appointment.CustomerName</td>               
+                <td>@appointment.CustomerTc</td>
+                <td>@appointment.Status</td>
+                <td>
+                    <form asp-action="UpdateAppointmentStatus" asp-controller="Doctor" method="post">
+                        <input type="hidden" name="appointmentId" value="@appointment.Id" />
+                        <button type="submit" class="btn btn-success">Onayla</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-action="UpdateAppointment" asp-controller="Doctor" method="post" style="display:inline;">
+                        <input type="hidden" name="appointmentId" value="@appointment.Id" />
+                        <input type="hidden" name="status" value="İptal Edildi" />
+                        <button type="submit" class="btn btn-danger">İptal Et</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</body>

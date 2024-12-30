@@ -1,0 +1,45 @@
+﻿@model List<DoctorViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<p>
+    <a asp-action="Create" asp-controller="Doctor">Doktor Oluştur</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Resim</th>
+            <th>Ad Soyad</th>
+            <th>Departman</th>
+            <th>Mail Adresi</th>
+            <th>Şifre</th>
+            <th>İşlem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@doctor.ImageUrl" alt="Doctor Image" class="img-thumbnail" style="width: 100px; height: 100px;" />
+                </td>
+                <td>@doctor.FullName</td>
+                <td>@doctor.DepartmentName</td>
+                <td>@doctor.Email</td>
+                <td>@doctor.Password</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@doctor.Id" class="btn btn-warning">Edit</a>
+                    <form method="post" asp-controller="Doctor" asp-action="Delete" onsubmit="return confirm('Bu doktoru silmek istediğinize emin misiniz?');">
+                        <input type="hidden" name="id" value="@doctor.Id" />
+                        <button type="submit" class="btn btn-danger">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

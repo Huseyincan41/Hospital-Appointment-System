@@ -1,0 +1,54 @@
+﻿@model List<AppointmentViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<form method="get" asp-controller="Appointment" asp-action="Index">
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <input type="text" name="tcNo" value="@ViewBag.TcNo" class="form-control" placeholder="T.C. Kimlik No ile ara" />
+        </div>
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary">Ara</button>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Randevu Tarihi</th>
+            <th>Randevu Saati</th>
+            <th>Müşteri Adı</th>
+            <th>Doktor Adı</th>
+            <th>Departman Adı</th>
+            <th>Tc</th>
+            <th>İşlem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.Date.ToString("dd/MM/yyyy")</td>
+                <td>@appointment.FormattedTime</td>
+                <td>@appointment.CustomerName</td>
+                <td>@appointment.DoctorName</td>
+                <td>@appointment.DepartmentName</td>
+                <td>@appointment.CustomerTc</td>
+                <td>
+                    <form asp-controller="Appointment" asp-action="Delete" method="post" asp-area="Admin" style="display:inline;">
+                        <input type="hidden" name="id" value="@appointment.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Bu randevuyu silmek istediğinize emin misiniz?')">
+                            Sil
+                        </button>
+                    </form>
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

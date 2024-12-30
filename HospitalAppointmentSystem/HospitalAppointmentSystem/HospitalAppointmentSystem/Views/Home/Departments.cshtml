@@ -1,0 +1,169 @@
+﻿@model List<DepartmentViewModel>
+@{
+    ViewData["Title"] = "Departments";
+    Layout = "~/Views/Shared/_LayoutHospital.cshtml";
+}
+
+@* <header>
+    <div class="header-area ">
+        <div class="header-top_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6 ">
+                        <div class="social_media_links">
+                            <a href="#">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-google-plus"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-6">
+                        <div class="short_contact_list">
+                            <ul>
+                                <li><a href="#"> <i class="fa fa-envelope"></i> info@docmed.com</a></li>
+                                <li><a href="#"> <i class="fa fa-phone"></i> 160160</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sticky-header" class="main-header-area">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-3 col-lg-2">
+                        <div class="logo">
+                            <a href="index.html">
+                                <img src="img/logo.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-7">
+                        <div class="main-menu  d-none d-lg-block">
+                            <nav>
+                                <ul id="navigation">
+                                    <li><a class="active" href="index.html">home</a></li>
+                                    <li><a href="Department.html">Department</a></li>
+                                    <li>
+                                        <a href="#">blog <i class="ti-angle-down"></i></a>
+                                        <ul class="submenu">
+                                            <li><a href="blog.html">blog</a></li>
+                                            <li><a href="single-blog.html">single-blog</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="#">pages <i class="ti-angle-down"></i></a>
+                                        <ul class="submenu">
+                                            <li><a href="elements.html">elements</a></li>
+                                            <li><a href="about.html">about</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="Doctors.html">Doctors</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                        <div class="Appointment">
+                            <div class="book_btn d-none d-lg-block">
+                                <a class="popup-with-form" href="#test-form">Make an Appointment</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="mobile_menu d-block d-lg-none"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+ *@
+@* <div class="bradcam_area breadcam_bg bradcam_overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text">
+                    <h3>Services</h3>
+                    <p><a href="index.html">Home /</a> Services</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- bradcam_area_end  -->
+<!-- service_area_start -->
+<div class="service_area">
+    <div class="container p-0">
+        <div class="row no-gutters">
+            <div class="col-xl-4 col-md-4">
+                <div class="single_service">
+                    <div class="icon">
+                        <i class="flaticon-electrocardiogram"></i>
+                    </div>
+                    <h3>Hospitality</h3>
+                    <p>Clinical excellence must be the priority for any health care service provider.</p>
+                    <a href="#" class="boxed-btn3-white">Apply For a Bed</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4">
+                <div class="single_service">
+                    <div class="icon">
+                        <i class="flaticon-emergency-call"></i>
+                    </div>
+                    <h3>Emergency Care</h3>
+                    <p>Clinical excellence must be the priority for any health care service provider.</p>
+                    <a href="#" class="boxed-btn3-white">+10 672 356 3567</a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-4">
+                <div class="single_service">
+                    <div class="icon">
+                        <i class="flaticon-first-aid-kit"></i>
+                    </div>
+                    <h3>Chamber Service</h3>
+                    <p>Clinical excellence must be the priority for any health care service provider.</p>
+                    <a href="#" class="boxed-btn3-white">Make an Appointment</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> *@
+<div class="our_department_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="section_title text-center mb-55">
+                    <h3>Departmanlar</h3>
+                    <p>
+                        Sağlığınız için uzman departmanlarımızla kaliteli hizmet sunuyoruz.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+        @foreach (var item in Model)
+        {
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <img src="@item.ImageUrl" alt="">
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="#">@item.Name</a></h3>
+                            <p>@item.Description</p>
+                            <a href="#" class="learn_more">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+        }
+        </div>
+        </div>
+</div>
+

@@ -1,0 +1,148 @@
+﻿@using Entity.ViewModels
+@model AppointmentViewModel
+
+@{
+    ViewData["Title"] = "Create Appointment";
+    Layout = "~/Views/Shared/_LayoutHospital.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <h4 class="text-center mb-0">Randevu Oluşturma Sayfası</h4>
+        </div>
+        <div class="card-body">
+            <form method="post" asp-controller="Appointment" asp-action="Create">
+                <input type="hidden" asp-for="@Model.Status" />
+                <div class="row">
+                    <!-- Select Date -->
+                   
+                    @* <label for="time">Select Time:</label>
+                    <input type="time" id="time" name="Time" value="@Model.Time" class="form-control" required /> *@
+                    <!-- TC Kimlik Numarası -->
+                    <div class="col-md-6 mb-3">
+                        <label for="TcNo" class="form-label">TC Kimlik Numarası:</label>
+                        <input type="text" id="TcNo" name="Customer.TcNo" value="@Model.Customer?.TcNo" class="form-control" required />
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="fullName" class="form-label">Ad Soyad Giriniz:</label>
+                        <input type="text" id="fullName" name="Customer.FullName" value="@Model.Customer?.FullName" class="form-control" required />
+                    </div>
+                   
+                    <!-- Select Department -->
+                    <div class="col-md-6 mb-3">
+                        <label for="department" class="form-label">Departman Seçiniz:</label>
+                        <select id="department" name="Department.Id" class="form-select">
+                            <option value="">Departman Seçiniz</option>
+                            @foreach (var department in Model.Departments)
+                            {
+                                <option value="@department.Id" Select="@(Model.Department != null && department.Id == Model.Department.Id ? "selected" : "")">
+                                    @department.Name
+                                </option>
+                            }
+                        </select>
+                    </div>
+                    
+                    <!-- Select Doctor -->
+                    <div class="col-md-6 mb-3">
+                        <label for="doctor" class="form-label">Doktor Seçiniz:</label>
+                        <select id="doctor" name="Doctor.Id" class="form-select" required>
+                            <option value="">Doktor Seçiniz</option>
+                            @if (Model.Doctors != null)
+                            {
+                                foreach (var doctor in Model.Doctors)
+                                {
+                                    <option value="@doctor.Id" Select="@(doctor.Id == (Model.Doctor?.Id ?? -1) ? "selected" : "")">
+                                        @doctor.FullName
+                                    </option>
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Full Name -->
+                    
+
+                    <!-- Email -->
+                    <div class="col-md-6 mb-3">
+                        <label for="email" class="form-label">Mail Adresinizi Giriniz:</label>
+                        <input type="email" id="email" name="Customer.Email" value="@Model.Customer?.Email" class="form-control" required />
+                    </div>
+
+                    <!-- Phone Number -->
+                    <div class="col-md-6 mb-3">
+                        <label for="phoneNumber" class="form-label">Telefon Numaranızı Grinizi:</label>
+                        <input type="tel" id="phoneNumber" name="Customer.PhoneNumber" value="@Model.Customer?.PhoneNumber" class="form-control" required />
+                    </div>
+               
+                <div class="col-md-6 mb-3">
+                    <label for="datepicker" class="form-label">Tarih Seçiniz:</label>
+                    <input id="datepicker" name="Date" value="@Model.Date" class="form-control" required />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <form asp-action="BookAppointment" asp-controller="Appointment" method="post">
+                        <div class="form-group">
+                            <label for="Time">Randevu Saati</label>
+
+                                <select asp-for="Time" class="form-control" id="Time">
+                                    @foreach (var time in ViewBag.AvailableTimes)
+                                    {
+                                        <option value="@time">@time.ToString(@"hh\:mm")</option>
+                                    }
+                                </select>
+
+                        </div>
+                        <div>
+                        <button type="submit" class="btn btn-primary">Randevu Al</button>
+                            </div>
+                    </form>
+                    </div>
+                </div>
+                @* <div class="d-grid gap-2 mt-3">
+                    <button type="submit" class="btn btn-success btn-lg">Create Appointment</button>
+                </div> *@
+            </form>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<script>
+    $(document).ready(function () {
+        $('#department').change(function () {
+            var departmentId = $(this).val();
+            $('#doctor').empty(); // Clear doctor list
+
+            if (departmentId) {
+                $.ajax({
+                    url: '/Appointment/GetDoctorsByDepartment',
+                    type: 'GET',
+                    data: { departmentId: departmentId },
+                    success: function (data) {
+                        $('#doctor').append('<option value="">-- Select Doctor --</option>');
+                        data.forEach(function (doctor) {
+                            $('#doctor').append('<option value="' + doctor.id + '">' + doctor.name + '</option>');
+                        });
+                    },
+                    error: function () {
+                        alert('Error fetching doctors. Please try again.');
+                    }
+                });
+            } else {
+                $('#doctor').append('<option value="">-- Select Doctor --</option>');
+            }
+        });
+
+        if ($('#department').val()) {
+            $('#department').trigger('change');
+        }
+    });
+</script>
